@@ -9,6 +9,13 @@ footer_only_homepage: true
 footer_url: "https://github.com/yuceltoluyag/jekyll-staticman"
 footer_text: "Bu sitede yer alan içerikler hayal ürünüdür."
 
+author:
+  name: Yücel Toluyağ
+  email: ytoluyag@gmail.com
+  twitter: yuceltoluyag
+twitter_username: yuceltoluyag
+github_username: yuceltoluyag
+
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
 
