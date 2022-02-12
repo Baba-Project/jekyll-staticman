@@ -43,7 +43,7 @@ var addComment = (function () {
             e.ok
               ? (i(
                   "Yorum gönderildi",
-                  'Teşekkürler! Yorumunuz <a href="https://github.com/yuceltoluyag/yuceltoluyag.github.io/pulls">beklemede</a>. Onaylandığında görünecektir.'
+                  'Teşekkürler! Yorumunuz <a href="https://github.com/yuceltoluyag/jekyll-staticman/pulls">beklemede</a>. Onaylandığında görünecektir.'
                 ),
                 o.reset(),
                 o.doReset())
