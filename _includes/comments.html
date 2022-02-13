@@ -4,9 +4,9 @@
   <!-- Existing comments -->
   <main class="timeline">
     <h1 class="timeline-header">
-      Komik
+      {% if site.data.comments[page.slug].size > 1 %}{{ site.data.comments[page.slug] | size | append: ' ' }}{% endif %}  Komik
       <em>
-        - Yorum Var
+         Yorum Var
       </em>
     </h1>
     {% assign comments = site.data.comments[page.slug] | where_exp: "item", "item.replying_to_uid == ''" %}
