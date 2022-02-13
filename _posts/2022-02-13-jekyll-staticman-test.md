@@ -13,7 +13,7 @@ tags: [koskomik, komik]
 <span class="color-red">Yapın Lütfen ;D</span><br>
 
 <span class="highlight-blue">Dikkat!!!!</span>
-<span class="highlight-green">Yorum Yapmanlar</span>
+<span class="highlight-green">Yorum Yapmayanlar</span>
 <span class="highlight-orange">Sitemizden</span>
 <span class="highlight-red">Banlanacaktır</span>
 
