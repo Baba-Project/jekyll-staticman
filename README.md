@@ -4,7 +4,7 @@ Staticman Kütüphanesini Test Ediyoruz.
 
 ## Blog Yazısı
 
-[Blog Yazısı](https://github.com/yuceltoluyag)
+[Blog Yazısı](https://yuceltoluyag.github.io/jekyll-staticman-eklentisi/)
 
 ## Live
 
