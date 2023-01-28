@@ -1,6 +1,6 @@
 # Jekyll Staticman Testi
 
-Staticman Kütüphanesini Test Ediyoruz.
+Staticman Kütüphanesini Test Ediyoruz..
 
 ## Blog Yazısı
 
