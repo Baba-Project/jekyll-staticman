@@ -1,7 +1,7 @@
 title: Jekyll Staticman Test
 subtitle: Öldüren Yorumlar
 
-url: "https://baba-project.github.io/jekyll-staticman/"
+url: "https://baba-project.github.io/"
 baseurl: "/jekyll-staticman"
 staticman_url: https://minelyorum.herokuapp.com/v3/entry/github/yuceltoluyag/jekyll-staticman/main/comments
 footer_only_homepage: true
